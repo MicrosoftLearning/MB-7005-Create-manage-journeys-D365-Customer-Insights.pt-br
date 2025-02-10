@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-7005 – Criar e gerenciar jornadas no Dynamics 365 Customer Insights
 
 Este repositório contém exercícios e arquivos de suporte para o MB-7005 - Criar e gerenciar jornadas com o Dynamics 365 Customer Insights. Este curso foi desenvolvido para os estudantes que planejam usar o Dynamics 365 Customer Insights para criar e fornecer jornadas de marketing em suas carreiras ou para analistas de experiência do cliente que querem aprender a configurar o Dynamics 365 Customer Insights para uma organização.
